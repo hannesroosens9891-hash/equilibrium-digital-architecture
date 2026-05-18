@@ -1,3 +1,10 @@
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=hannesroosens9891-hash.equilibrium-digital-architecture)
+
+
+
+
+
 # Equilibrium Digital Architecture
 
 By Hannes Roosens
